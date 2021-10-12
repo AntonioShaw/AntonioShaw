@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioshaw&label=Profile%20views&color=0e75b6&style=flat" alt="antonioshaw" /> </p>
 
-- 🔭 My capstone project **Trivia App**
+- 🔭 My capstone project **QuizWiz**
 
 - 📫 How to reach me **tonyshaw0613@gmail.com**
 
