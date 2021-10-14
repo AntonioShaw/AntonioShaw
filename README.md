@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioshaw&label=Profile%20views&color=0e75b6&style=flat" alt="antonioshaw" /> </p>
 
-- 🔭 My capstone project **QuizWiz**
+- 🔭 I'm currently working on my capstone project, **QuizWiz**
 
-- 📫 How to reach me **tonyshaw0613@gmail.com**
+- 📫 Email: **tonyshaw0613@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/antonio-s-98a3a639/](https://www.linkedin.com/in/antonio-s-98a3a639/)
+- 📄 Professional History: [https://www.linkedin.com/in/antonio-s-98a3a639/](https://www.linkedin.com/in/antonio-s-98a3a639/)
 
-- ⚡ Fun fact **One of my favorite pastimes is brutalizing my opponents in a game of full-contact Scrabble.**
+- ⚡ Fun Fact: **One of my favorite pastimes is brutalizing my opponents in a game of full-contact Scrabble.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
